@@ -62,7 +62,7 @@ terminado==0.12.1
 testpath==0.5.0
 tflearn==0.5.0
 threadpoolctl==3.0.0
-torch==1.9.0
+torch==1.9.0+cpu
 torchvision==0.2.2.post3
 tornado==6.1
 tqdm==4.62.3
